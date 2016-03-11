@@ -1,4 +1,4 @@
 # hello-world
 My First Repository :3
 
-This file is part of the secondary branch :D
+This file was once part of my Features Branch. It's gone now :(
